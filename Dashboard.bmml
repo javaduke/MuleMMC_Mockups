@@ -284,11 +284,14 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::ButtonBar" x="552" y="108" w="-1" h="-1" measuredW="419" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::ButtonBar" x="466" y="108" w="-1" h="-1" measuredW="584" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Dashboard%2C%20Deployment%20Scenarios%2C%20Events%2C%20Administration</text>
+        <hrefs>%2CNewEnvironment%26bm%3BNewEnvironment.bmml%26bm%3BNewEnvironment.bmml%26bm%3BNewEnvironment.bmml%2CNewDeployment%26bm%3BNewDeployment.bmml%26bm%3BNewDeployment.bmml%26bm%3BNewDeployment.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22383%2C102%2C488%2C123%22%20href%3D%22NewEnvironment.bmml%22%20alt%3D%22NewEnvironment%22%20id%3D%2288%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22488%2C102%2C646%2C123%22%20href%3D%22NewDeployment.bmml%22%20alt%3D%22NewDeployment%22%20id%3D%2288%22/%3E</map>
+        <text>Dashboard%2C%20Environments%2C%20Deployment%20Scenarios%2C%20Events%2C%20Alerts%2C%20Administration</text>
       </controlProperties>
     </control>
     <control controlID="89" controlTypeID="com.balsamiq.mockups::HRule" x="186" y="113" w="1125" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::HRule" x="203" y="814" w="213" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

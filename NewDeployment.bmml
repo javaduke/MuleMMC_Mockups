@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1326" measuredH="913" mockupW="1155" mockupH="907">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="171" y="6" w="1155" h="907" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::HRule" x="186" y="113" w="1125" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::TabBar" x="186" y="277" w="359" h="621" measuredW="273" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Maven%20Repositories%2C%20Local%20Files</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="500" y="874" w="-1" h="-1" measuredW="30" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="474" y="874" w="-1" h="-1" measuredW="26" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Label" x="245" y="171" w="-1" h="-1" measuredW="167" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deployment%20Scenario%20Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::TextInput" x="441" y="169" w="304" h="-1" measuredW="194" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>HelloWorldDeploymentScenario</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Label" x="245" y="215" w="-1" h="-1" measuredW="76" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Environment%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::ComboBox" x="441" y="216" w="304" h="-1" measuredW="76" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Staging</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Tree" x="194" y="311" w="330" h="474" measuredW="300" measuredH="225" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>6</selectedIndex>
+        <text>%5B+%5D%20Acme%20Snapshots%20Repository%0A%5B-%5D%20Acme%20Releases%20Repository%0A%20Fcom%0A%20%20Facme%0A%20%20%20Fhelloworld%0A%20%20%20%20F1.0.1%0A%20%20%20%20%20-helloworld-1.0.1-20140314.zip%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::HRule" x="186" y="869" w="344" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::ButtonBar" x="466" y="108" w="-1" h="-1" measuredW="584" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2CNewDeployment%26bm%3BNewDeployment.bmml%26bm%3BNewDeployment.bmml%26bm%3BNewDeployment.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22488%2C102%2C646%2C123%22%20href%3D%22NewDeployment.bmml%22%20alt%3D%22NewDeployment%22%20id%3D%22140%22/%3E</map>
+        <text>Dashboard%2C%20Environments%2C%20Deployment%20Scenarios%2C%20Events%2C%20Alerts%2C%20Administration</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::FieldSet" x="765" y="300" w="410" h="598" measuredW="200" measuredH="170" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::HSplitter" x="643" y="303" w="-1" h="595" measuredW="12" measuredH="100" zOrder="13" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
